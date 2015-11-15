@@ -1,0 +1,3 @@
+[submodule "OpenTechBFG/OpenTechBFG"]
+	path = OpenTechBFG/OpenTechBFG
+	url = https://github.com/OpenTechEngine/OpenTechBFG.git
