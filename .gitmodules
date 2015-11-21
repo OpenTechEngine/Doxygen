@@ -1,3 +1,6 @@
 [submodule "OpenTechBFG/OpenTechBFG"]
 	path = OpenTechBFG/OpenTechBFG
 	url = https://github.com/OpenTechEngine/OpenTechBFG.git
+[submodule "DarkRadiant/DarkRadiant"]
+	path = DarkRadiant/DarkRadiant
+	url = https://github.com/OpenTechEngine/DarkRadiant.git
