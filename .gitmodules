@@ -7,3 +7,6 @@
 [submodule "BFGFontTool/BFGFontTool"]
 	path = BFGFontTool/BFGFontTool
 	url = https://github.com/OpenTechEngine/BFGFontTool.git
+[submodule "bmfont/bmfont"]
+	path = bmfont/bmfont
+	url = https://github.com/OpenTechEngine/bmfont.git
