@@ -10,3 +10,6 @@
 [submodule "bmfont/bmfont"]
 	path = bmfont/bmfont
 	url = https://github.com/OpenTechEngine/bmfont.git
+[submodule "ModelingTools/ModelingTools"]
+	path = ModelingTools/ModelingTools
+	url = https://github.com/OpenTechEngine/ModelingTools.git
