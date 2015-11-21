@@ -4,3 +4,6 @@
 [submodule "DarkRadiant/DarkRadiant"]
 	path = DarkRadiant/DarkRadiant
 	url = https://github.com/OpenTechEngine/DarkRadiant.git
+[submodule "BFGFontTool/BFGFontTool"]
+	path = BFGFontTool/BFGFontTool
+	url = https://github.com/OpenTechEngine/BFGFontTool.git
